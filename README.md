@@ -1,5 +1,5 @@
 
-![Neutral Creative Professional LinkedIn Article Cover Image-2](https://picsum.photos/200/300)
+![Neutral Creative Professional LinkedIn Article Cover Image-2](https://github.com/f0ursecond/Mobile-Dev-Portofolio/blob/main/banner.png)
        
  
 ### Hi! I'm Alif Zulfanur a Flutter Mobile Developer.
